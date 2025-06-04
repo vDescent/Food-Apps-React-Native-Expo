@@ -1,6 +1,6 @@
 # Food Apps 
 
-> Simple Recipe food application
+> Simple Recipe food application using expo react native and firebase
 
 ## Preview
 ![Image](/AppShow.png)
